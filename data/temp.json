@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "temp",
+    "author": "temp",
+    "creators": ["temp"],
+    "verifier": "temp",
+    "verification": "data:text/html,<p>temp</p>",
+    "percentToQualify": 100,
+    "password": "temp",
+    "records": [
+        {
+            "user": "temp",
+            "link": "data:text/html,<p>temp</p>",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
