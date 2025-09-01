@@ -1,4 +1,4 @@
-[
+{
     "id": 537,
     "name": "Lycanthropy",
     "author": "yukkidasher",
@@ -6,7 +6,7 @@
     "verifier": "yukkidasher",
     "verification": "https://youtu.be/q8B6jeekYuU?si=53CvOILpa002Ag7W",
     "percentToQualify": "100",
-    "password": "Free to Copy",
+    "password": None,
     "records": [
     ]
-]
+}
