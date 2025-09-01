@@ -1,12 +1,11 @@
 {
-    "id": 537,
-    "name": "Lycanthropy",
-    "author": "yukkidasher",
-    "creators": ["yukkidasher"],
-    "verifier": "yukkidasher",
-    "verification": "https://youtu.be/q8B6jeekYuU?si=53CvOILpa002Ag7W",
-    "percentToQualify": "100",
-    "password": None,
-    "records": [
-    ]
+  "id": 537,
+  "name": "Lycanthropy",
+  "author": "yukkidasher",
+  "creators": ["yukkidasher"],
+  "verifier": "yukkidasher",
+  "verification": "https://youtu.be/q8B6jeekYuU?si=53CvOILpa002Ag7W",
+  "percentToQualify": 100,
+  "password": "None",
+  "records": []
 }
