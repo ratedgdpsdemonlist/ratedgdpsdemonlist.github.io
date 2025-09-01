@@ -7,5 +7,12 @@
   "verification": "https://youtu.be/q8B6jeekYuU?si=53CvOILpa002Ag7W",
   "percentToQualify": 100,
   "password": "None",
-  "records": []
+  "records": [
+      {
+            "user": "el sakupen",
+            "link": "https://youtu.be/R6lDa9yJ12Q",
+            "percent": 100,
+            "hz": 60
+        }
+  ]
 }
